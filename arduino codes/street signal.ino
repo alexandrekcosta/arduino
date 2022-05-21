@@ -1,6 +1,8 @@
 // C++ code
 //
 
+//Code to manange a street signal 
+
 #define carRED 4
 #define carORANGE 3
 #define carGREEN 2
